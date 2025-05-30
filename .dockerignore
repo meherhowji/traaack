@@ -1,0 +1,20 @@
+# Python artifacts
+**pycache**/
+_.py[cod]
+_.so
+
+# Virtualenv
+.venv/
+.env/
+.python-version
+
+# Git
+.git
+.gitignore
+
+# IDE configs
+.vscode/
+.idea/
+
+# Other
+.DS_Store
