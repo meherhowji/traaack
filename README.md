@@ -6,3 +6,4 @@
 2. `docker image`
 3. `docker ps`
 4. `docker exec -it <id> sh` to enter container(not image), it needs to be running
+5. Install usebruno for endpoint testing
